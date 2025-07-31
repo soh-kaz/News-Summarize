@@ -20,7 +20,7 @@ This application, built using **LangGraph**, **LangChain**, **Gemini**, **OpenAI
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/soh-kaz/News-Summarize.git
    cd your-repo-name
 
 2. **Set Up a Virtual Environment:**:
@@ -75,6 +75,8 @@ News-Summarize/
 
 ```
 
+## Workflow
+<img width="1050" height="1167" alt="image" src="https://github.com/user-attachments/assets/c45c3ab6-5d07-46c2-b61f-d839126f8d76" />
 
 ## Contributing
 Contributions are welcome.
