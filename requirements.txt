@@ -15,3 +15,6 @@ openai
 newsapi-python
 python-dotenv
 ipywidgets
+
+#Streamlit for gui
+streamlit
