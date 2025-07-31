@@ -16,6 +16,7 @@ This application, built using **LangGraph**, **LangChain**, **Gemini**, **OpenAI
 - OpenAI API key
 - Gemini API key (if applicable)
 - Docker (optional, for containerized deployment)
+- Streamlit (for GUI)
 
 ## Installation
 1. **Clone the Repository**:
@@ -43,11 +44,19 @@ GEMINI_API_KEY=your_gemini_api_key
 
 ## Usage
 1. **Run the Application:**
-```bash
-python app.py
-```
- - Enter a topic (e.g., "cricket") when prompted.
- - The system will fetch news, generate a summary, analyze sentiment, and produce a report.
+
+   i.   ***Terminal based*** 
+   ```bash
+   python app.py
+   ```
+
+   ii.  ***GUI based***
+   ```bash
+   streamlit run gui.py
+   ```
+    
+    - Enter a topic (e.g., "cricket") when prompted.
+    - The system will fetch news, generate a summary, analyze sentiment, and produce a report.
 
 2. **Example Output:**
 ```text
